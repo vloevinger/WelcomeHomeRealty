@@ -61,8 +61,8 @@ This website can be used for any company as a started template for a website.
 # Goal
 Create a template for a home page, contact page, and sign up page that can be reused by different uses as a starter template for their website.
 
-# What is the license for this project? 
-This website uses google fonts.
+# What is the license for this WelcomeHomeRealty? 
+This website uses Bootstrap v4.5 and google fonts.
 The rest of this project is in the public domain
 
 # Developer Contact Information
