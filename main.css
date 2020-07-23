@@ -1,0 +1,56 @@
+
+body{
+	font-size: 	18px !important;
+	color:#0d4d82!important	;
+	font-weight: 300!important	;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 1.5rem;
+}
+h1{
+	color:red;
+}
+
+.bgBlue{
+	background: #0d4d82!important;
+}
+.textBlue{
+	color: #0d4d82!important;
+}
+.borderBlue{
+	border-color: #0d4d82!important;
+}
+.nav-link, .dropdown-item{
+	color: 	#0d4d82!important;
+	font-size: 1.3rem;
+}
+.nav-link:hover{
+	color:red!important;
+}
+
+
+ .headerImage  {
+       height:800px; width: 100%;
+ }
+
+.btn:focus{
+	outline: none!important;
+}
+.teamImg{
+	width: 100px;
+	height: 150px;
+}
+
+.about,.contact{
+	margin-bottom:200px;
+}
+ 
+ .contactImage{
+	width: 90%;
+	/*height: 150px;*/
+
+ }
+
+ #loginFooter{
+ 	margin-top:385px;
+ }
+
